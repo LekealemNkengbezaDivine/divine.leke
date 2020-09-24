@@ -1,2 +1,2 @@
 # divine.leke
-dtudies
+# This is my first project.
